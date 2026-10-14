@@ -1,29 +1,8 @@
-<p align="center">
-  <img src="assets/banner.svg" width="1280" alt="trust-md — Your AI knows what to do. Does it know who gets to tell it?">
-</p>
+# trust-md
 
-<h1 align="center">trust-md</h1>
+> Your AI knows what to do. Does it know who gets to tell it?
 
-<p align="center">
-  <strong>Your AI knows what to do. Does it know who gets to tell it?</strong><br>
-  One Markdown file · four principles · better trust boundaries for AI agents
-</p>
-
-<p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/kamilkubik89/trust-md" alt="MIT license"></a>
-  <img src="https://img.shields.io/badge/dependencies-0-blue" alt="Zero dependencies">
-</p>
-
-<p align="center">
-  <a href="TRUST.md">TRUST.md</a> ·
-  <a href="#installation">Install</a> ·
-  <a href="#research-foundations">Research</a> ·
-  <a href="#limitations">Limitations</a> ·
-  <a href="https://github.com/kamilkubik89/trust-md/discussions">Discussions</a> ·
-  <a href="CONTRIBUTING.md">Contribute</a>
-</p>
-
----
+A single [`TRUST.md`](TRUST.md) file that helps AI agents keep trust boundaries: who may give instructions, what counts as permission, and what to do when it is unclear.
 
 ## The Problem
 
